@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1684940223 source:/home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/main.c
+	"IA.c"
+	"JOUEUR.c"
+
+1684940223 /home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/IA.c
+	"IA.h"
+
+1684940223 /home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/IA.h
+	"macros.h"
+
+1684940331 /home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/JOUEUR.c
+	"JOUEUR.h"
+	"Affichage.c"
+
+1684917779 /home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/JOUEUR.h
+	"macros.h"
+
+1684854157 /home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/partagees.c
+	"partagees.h"
+
+1684854219 /home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/partagees.h
+	"JOUEUR.h"
+	"IA.h"
+
+1684855142 /home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/macros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1684917473 /home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/Affichage.h
+	"macros.h"
+
+1684917479 /home/yarov/Documents/CodeBlocks/BATAILLE NAVALE/BATAILLE NAVALE 1.0/Affichage.c
+	"Affichage.h"
+
+1684940223 source:/home/yarov/Documents/CodeBlocks/Bataille_navale/v1.0/main.c
+	"IA.c"
+	"JOUEUR.c"
+
+1684940223 /home/yarov/Documents/CodeBlocks/Bataille_navale/v1.0/IA.c
+	"IA.h"
+
+1684940223 /home/yarov/Documents/CodeBlocks/Bataille_navale/v1.0/IA.h
+	"macros.h"
+
+1684855142 /home/yarov/Documents/CodeBlocks/Bataille_navale/v1.0/macros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1684940331 /home/yarov/Documents/CodeBlocks/Bataille_navale/v1.0/JOUEUR.c
+	"JOUEUR.h"
+	"Affichage.c"
+
+1684917779 /home/yarov/Documents/CodeBlocks/Bataille_navale/v1.0/JOUEUR.h
+	"macros.h"
+
+1684917479 /home/yarov/Documents/CodeBlocks/Bataille_navale/v1.0/Affichage.c
+	"Affichage.h"
+
+1684917473 /home/yarov/Documents/CodeBlocks/Bataille_navale/v1.0/Affichage.h
+	"macros.h"
+
