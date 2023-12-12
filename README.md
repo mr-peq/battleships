@@ -1,11 +1,15 @@
-# battleships
-Battleship game in C
+# Battleships
+Battleship game in C, where a user can challenge an AI for ocean domination !
 
 This is my 1st ever program. It runs on console.
-I had learned C (which was my introduction to programming languages) a few weeks before writing it, so it is obviously VERY painful to read now.
-It needs a lot of refactoring/rewriting.
+I had learned C (which was my introduction to programming languages) a few weeks before writing it, so it is obviously a mess in some places.
 
-My sincere apologies in advance to anyone who would venture in this maze...
-It sucks, but it works !
 
-PS: all comments, variables, function names etc... are written in French.
+### Planned next:
+
+Big refactoring
+
+
+### Note:
+
+All comments, variables, function names etc... are written in French.
